@@ -1,2 +1,26 @@
-# SortScape
-SortScape is an interactive visualization tool designed to showcase various sorting algorithms. It provides dynamic animations and detailed explanations to help users understand how each sorting method works. Ideal for students, educators, and algorithm enthusiasts, SortScape brings the art of sorting to life.
+SortingAlgorithmAnimations
+==========================
+
+
+
+Visualization and comparison of 9 different sorting algorithms:
+- selection sort
+- shell sort
+- insertion sort
+- merge sort
+- quick sort
+- heap sort
+- bubble sort
+- comb sort
+- cocktail sort
+
+The algorithms are used in 4 types of input data:
+- random
+- few unique
+- reversed
+- almost sorted
+
+## License
+
+See the [LICENSE](LICENSE.txt) file for license rights and limitations (MIT).
+
